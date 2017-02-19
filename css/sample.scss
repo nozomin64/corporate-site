@@ -394,6 +394,10 @@ header{
     padding-bottom: 15px;
   }
   
+  #main h2.company_title {
+    margin-bottom: 0px;
+  }
+  
   #main .news_li li {
     list-style: none;
   }
@@ -405,6 +409,17 @@ header{
     margin-bottom: 3px;
   }
   
+  #main th {
+    padding-right: 20px;
+  }
+
+  #main th, #contents #main td {
+    padding: 20px 0;
+    color: #626262;
+    font-size: 14px;
+    font-size: 1.4rem;
+  }
+
   #sidebar .pc_sidemenu h3 {
     color: #42b9d0;
     font-size: 14px;

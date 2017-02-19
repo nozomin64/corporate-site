@@ -211,6 +211,8 @@ header {
     font-size: 1.5rem;
     font-weight: bold;
     padding-bottom: 15px; }
+  #contents #main h2.company_title {
+    margin-bottom: 0px; }
   #contents #main .news_li li {
     list-style: none; }
   #contents #main .news_li li span {
@@ -218,6 +220,13 @@ header {
     display: block;
     font-weight: bold;
     margin-bottom: 3px; }
+  #contents #main th {
+    padding-right: 20px; }
+  #contents #main th, #contents #contents #main td {
+    padding: 20px 0;
+    color: #626262;
+    font-size: 14px;
+    font-size: 1.4rem; }
   #contents #sidebar .pc_sidemenu h3 {
     color: #42b9d0;
     font-size: 14px;
