@@ -215,14 +215,14 @@ header {
     margin-bottom: 0px; }
   #contents #main .news_li li {
     list-style: none; }
-  #contents #main .news_li li span {
-    color: #42b9d0;
-    display: block;
-    font-weight: bold;
-    margin-bottom: 3px; }
+    #contents #main .news_li li span {
+      color: #42b9d0;
+      display: block;
+      font-weight: bold;
+      margin-bottom: 3px; }
   #contents #main th {
     padding-right: 20px; }
-  #contents #main th, #contents #contents #main td {
+  #contents #main th, #contents #main td {
     padding: 20px 0;
     color: #626262;
     font-size: 14px;
@@ -246,9 +246,9 @@ header {
     padding: 10px 10px 10px 20px;
     background-image: url(../images/news/side_arrow.png);
     background-size: 4px 8px; }
-  #contents #sidebar .pc_sidemenu li a {
-    color: #339fd1;
-    text-decoration: none; }
+    #contents #sidebar .pc_sidemenu li a {
+      color: #339fd1;
+      text-decoration: none; }
   @media (min-width: 550px) {
     #contents {
       padding-top: 35px;
